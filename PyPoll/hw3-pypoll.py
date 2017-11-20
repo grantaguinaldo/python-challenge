@@ -10,13 +10,13 @@ with open(filepath) as f:
 
     next(readcsv)
     #Count the number of voters that cast votes.
-    total_votes_cast = sum([1 for row in readcsv])
+    total_votes_cast = sum(tuple([1 for row in readcsv]))
     print("Number of votes casted: ", total_votes_cast)
 
     f.seek(0)
     next(readcsv)
     #Return a list of unique canidates.
-    canidate_list_all = [row[2] for row in readcsv]
+    canidate_list_all = tuple([row[2] for row in readcsv])
     canidate_list_unique = []
     for i in canidate_list_all:
         if i not in canidate_list_unique:
