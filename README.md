@@ -1,6 +1,6 @@
 # Week 3 Homework: Python
 
-For this homework assignment, I decided to solve PyBank and PyPoll (Problems 1 and 2, respectively).
+For this homework assignment, I decided to solve PyBank and PyPoll (Problems 1 and 2, respectively).  A link to the original assignment can be found [here](http://usc.bootcampcontent.com/usc-boot-camp/USCLOS201710DATA5-Class-Repository-DATA/tree/master/Python/Homework%20Instructions).
 
 ### PyBank
 
