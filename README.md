@@ -17,7 +17,7 @@ Thet text file exports and code can be found in the [folder]( https://github.com
 
 ### PyPoll
 
-For PyPoll, the summary tables for `election_data_1`.csv` and `election_data_2`.csv` are below.
+For PyPoll, the summary tables for `election_data_1.csv`and `election_data_2`.csv` are below.
 
 ![Election Summary 1 Summary]( https://github.com/grantaguinaldo/python-challenge/blob/master/PyPoll/Screen%20Shot%202017-11-20%20at%209.20.39%20PM.png) 
 
