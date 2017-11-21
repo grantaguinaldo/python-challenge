@@ -14,6 +14,8 @@ Thet text file exports and code can be found in the [folder]( https://github.com
 
 + `budget_data_1.py`
 + `budget_data_2.py`
++ `budget_data_1_summary.txt`
++ `budget_data_2_summary.txt`
 
 ### PyPoll
 
@@ -27,3 +29,5 @@ The text file exports and code can be found in the [folder]( https://github.com/
 
 + `hw3-pypoll-dataset1.py`
 + `hw3-pypoll-dataset2.py`
++ `election_data_1_summary.txt`
++ `election_data_2_summary.txt`
