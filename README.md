@@ -2,7 +2,8 @@
 
 For this homework assignment, I decided to solve PyBank and PyPoll (Problems 1 and 2, respectively).
 
-###PyBank
+### PyBank
+
 For PyBank, the summary tables for `budget_data_1.csv` and `budget_data_2.csv` are below.
 
 ![Budget Data 1 Summary]( https://github.com/grantaguinaldo/python-challenge/blob/master/PyBank/Screen%20Shot%202017-11-20%20at%209.46.57%20PM.png)
@@ -14,7 +15,8 @@ Thet text file exports and code can be found in the [folder]( https://github.com
 + `budget_data_1.py`
 + `budget_data_2.py`
 
-###PyPoll
+### PyPoll
+
 For PyPoll, the summary tables for `election_data_1`.csv` and `election_data_2`.csv` are below.
 
 ![Election Summary 1 Summary]( https://github.com/grantaguinaldo/python-challenge/blob/master/PyPoll/Screen%20Shot%202017-11-20%20at%209.20.39%20PM.png) 
@@ -25,7 +27,3 @@ The text file exports and code can be found in the [folder]( https://github.com/
 
 + `hw3-pypoll-dataset1.py`
 + `hw3-pypoll-dataset2.py`
-
-
-
-
